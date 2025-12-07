@@ -8,4 +8,4 @@
 [hem](https://hem.sh) — web analytics  
 [keyless](https://keyless.sh) — local speech-to-text  
 [devkeys](https://devkeys.app) — typing trainer  
-[framelog](https://framelog.app) — movie tracking
+[framelog](https://framelog.app) — social movie tracking
